@@ -1,4 +1,4 @@
-# acol_jeu
+# Jeu d'aventure
 
 ## Getting started
 
