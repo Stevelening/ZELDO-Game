@@ -8,3 +8,7 @@ Dans une terminal, exécuter les commandes suivantes :
 - Compilation : `javac -d bin/ -cp src/ src/main/Main.java`
 
 - Exécution : `java -cp bin main.Main`
+
+
+## Manuel d'utilisation
+Pour de plus amples details, veillez consulter le manuel d'utilisation de ce jeu qui se trouve dans le fichier `rapport.pdf`
