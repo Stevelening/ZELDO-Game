@@ -1,2 +1,5 @@
-compilation : javac -d bin/ -cp src/ src/main/Main.java
-éxécution : java -cp bin main.Main
+Démarrage rapide :
+
+Compilation : javac -d bin/ -cp src/ src/main/Main.java
+
+Exécution : java -cp bin main.Main
